@@ -10,6 +10,7 @@
 * [2606 - Categorias](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2606.sql)
 * [2607 - Cidades em Ordem Alfabética](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2607.sql)
 * [2608 - Maior e Menor Preço](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2608.sql)
+* [2609 - Produtos por Categorias](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2609.sql)
 * [2611 - Filmes de Ação](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2611.sql)
 * [2613 - Filmes em Promoção](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2613.sql)
 * [2614 - Locações em Setembro](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2614.sql)
@@ -20,3 +21,5 @@
 * [2620 - Pedidos no Primeiro Semestre](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2620.sql)
 * [2621 - Quantidades Entre 10 e 20](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2621.sql)
 * [2622 - Pessoas Jurídicas](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2622.sql)
+* [2623 - Categorias com Vários Produtos](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2623.sql)
+* [2624 - Quantidades de Cidades por Clientes](https://github.com/biasoviero/Learning_SQL/blob/main/Problems/2624.sql)
