@@ -26,6 +26,9 @@
 
 ## LeetCode
 
+* [175 - Combine Two Tables](https://github.com/biasoviero/Learning_SQL/blob/main/LeetCode/175.sql)
+* [176 - Second Highest Salary](https://github.com/biasoviero/Learning_SQL/blob/main/LeetCode/176.sql)
+* [177 - Nth Highest Salary](https://github.com/biasoviero/Learning_SQL/blob/main/LeetCode/177.sql)
 * [584 - Find Customer Referee](https://github.com/biasoviero/Learning_SQL/blob/main/LeetCode/584.sql)
 * [595 - Big Countries](https://github.com/biasoviero/Learning_SQL/blob/main/LeetCode/595.sql)
 * [1757 - Recyclable and Low Fat Products](https://github.com/biasoviero/Learning_SQL/blob/main/LeetCode/1757.sql)
